@@ -1,0 +1,166 @@
+.body{
+    
+}
+
+.card.single-post{
+ margin-bottom: 30px;
+ 
+}
+
+.mycard{
+    
+    background: rgba(0, 0, 0, 0.9);
+    
+    
+}
+
+ 
+.bottom-card{
+    min-height: 300px;
+}
+
+ 
+ .top-card{
+     position: relative;
+ }
+
+ .img-box{
+     
+     position: absolute;
+     min-height: 300px;
+     width: 100%;
+ }
+ .tag-box{
+    height: 300px;background: rgba(0, 20, 220, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #eee;
+    font-size: 17px;
+    position: absolute;
+ }
+ .bot-card{
+     display: block;
+ }
+
+  .mybox{
+      position: relative;
+      cursor: pointer;
+      background:green;
+      min-height: 250px;
+     
+  }
+
+ 
+
+ .mybox .box-img img{
+    box-shadow: 15px 0 35px rgba(0,0,0,0.2) ,0  -15px 35px rgba(0,0,0,0.2),0  15px 35px rgba(0,0,0,0.2);
+
+    height: 250px;
+ }
+  .mybox .box-img{
+   
+
+      position: absolute;
+     
+     
+     
+  }
+
+ 
+  .mybox .box-text{
+      position: absolute;
+      background: rgba(0,0,0,.7);
+      height: 100%;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+     
+      
+  }
+
+ 
+  .mybox .box-text.hidden{
+    display: none;
+    transition: all;
+    transition-duration: 1s;
+     
+  }
+  .mybox .box-text ul{
+      color: white;
+      list-style: none;
+      font-size: 18px;
+  }
+
+ 
+
+   .card-body{
+       background-image: url();
+    box-shadow: 15px 0 35px rgba(0,0,0,0.2) ,0  -15px 35px rgba(0,0,0,0.2),0  15px 35px rgba(0,0,0,0.2);
+  }
+
+
+  .card-title{
+      color: #dc3545 !important;
+      
+  }
+.blog-area{
+    background-color: rgb(192, 186, 189);
+   
+}
+
+
+.sidebar{
+    
+    background-color: rgb(31, 38, 46) ;
+}
+
+.footer-area{
+    background-color: rgb(31, 38, 46)  ;
+}
+
+
+.Button-color{
+    color:rgb(2, 34, 75) ;
+}
+
+.content-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.card-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.content-description{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 30px;
+   
+}
+.content-subtitle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.content-info{
+    margin-top: -50px;
+    
+}
+.section-description{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card-text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sidebar
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button-main{
+    background-color: rgb(31, 38, 46) ;
+    color: #eee;
+}
