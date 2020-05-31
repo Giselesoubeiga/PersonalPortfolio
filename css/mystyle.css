@@ -105,10 +105,7 @@
       color: #dc3545 !important;
       
   }
-.blog-area{
-    background-color: rgb(192, 186, 189);
-   
-}
+
 
 
 .sidebar{
@@ -163,4 +160,34 @@
 .button-main{
     background-color: rgb(31, 38, 46) ;
     color: #eee;
+}
+
+.iconBox{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 80px;
+}
+.iconBox img{
+    
+    border-radius: 100%;
+    height: 70px;
+    width: 70px;
+    margin-bottom: -120px;
+    margin-bottom: -100px;
+    
+}
+.viva-text {
+    margin-right: -110px;
+}
+
+.iconSection{
+    background: #f7f7f7 ;
+    height: 100px;
+   
+}
+
+.section-area{
+    margin-top: -120px;
 }
